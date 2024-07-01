@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yantrik-patel&label=Profile%20views&color=0e75b6&style=flat" alt="yantrik-patel" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://yantrik-patel.github.io/](https://yantrik-patel.github.io/)
+- 👨‍💻 My Portfolio Website [https://yantrik-portfolio.netlify.app/](https://yantrik-portfolio.netlify.app/)
 
 - 📫 How to reach me **patelyantrik@gmail.com**
 
